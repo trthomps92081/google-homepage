@@ -8,3 +8,23 @@
     display: block;
     margin-top: 216px;
 }
+.searchbar {
+    border: 1px gray solid;
+    border-radius: 16px;
+
+}
+
+.input-field {
+    border: 0px;
+    width: 91%;
+    height: 32px;
+}
+
+.input-field:active, .input-field:focus {
+    border: 0px;
+    outline: 0px;
+}
+button {
+    opacity: 50%;
+    border: 0px;
+}
